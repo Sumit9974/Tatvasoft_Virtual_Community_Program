@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TS_DAY_3_DOT_NET.props" />
+</Project>
